@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chandigarh%20University/Projects/mlproject/mlruns/0/c018dec07b824407a79627b656226b03/artifacts
+end_time: 1695979349372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c018dec07b824407a79627b656226b03
+run_name: omniscient-bee-943
+run_uuid: c018dec07b824407a79627b656226b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695979349302
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chandigarh%20University/Projects/mlproject/mlruns/0/89685b0e2a3d4bc5a4357ac252c93370/artifacts
+end_time: 1695979485021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89685b0e2a3d4bc5a4357ac252c93370
+run_name: persistent-smelt-146
+run_uuid: 89685b0e2a3d4bc5a4357ac252c93370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695979477863
+status: 3
+tags: []
+user_id: root
